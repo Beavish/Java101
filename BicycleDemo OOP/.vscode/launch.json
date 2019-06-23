@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BicycleDemo",
+            "request": "launch",
+            "mainClass": "BicycleDemo",
+            "projectName": "New folder_e23c0fb8"
+        }
+    ]
+}
