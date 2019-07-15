@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - polyApp",
+            "request": "launch",
+            "mainClass": "polyApp",
+            "projectName": "polymorphism_8b06071"
+        }
+    ]
+}
